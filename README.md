@@ -43,25 +43,6 @@ Software Engineering undergraduate focused on building full-stack web applicatio
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/KavinduGK">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/KavinduGK">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/KavinduGK">
-    <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavindugk-ekanayaka)
